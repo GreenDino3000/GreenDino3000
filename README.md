@@ -13,6 +13,8 @@
 
 - Let that be held against me if I go against my word.
 
+- As for development time, I do not have a clear idea of when this will be completed. However, it will be a multi-year long project, absolute minimum of 2 years with a lot of magic and elbow grease, but realistically it would be more along the lines of 4.
+
 - 🌱 I’m currently learning unity(3d) and C#. This is partly "on the road" learning; I do not have a job involving coding, I am not working on this project as a real job. This is a probject I am doing in my spare time, I simply learn as I develop the game via the power of YouTube and Google, and participate in Unity forums/discussion areas that have helped me out. As such, at any given point, there will probably be a lot of things I do not know. If I'm handed a piece of a code in a structure or way I don't understand, I'm not unwilling to learn it, but I'll probably need at least an hour familiarizing myself with the concept before I can really start putting it to use.
 
 - 💞️ I’m willing to collaborate with anyone who feels interested in helping with the development of the game (such as assets I can quickly put into the game and test). Admittedly, I do not have the funds to pay for this work in any meaningful sense, so this would be purely anyone who comes to me to volunteer to work on something. I will not ask anyone to do more than what they want, or do something I would not attempt to implement myself, nor something they are unfamiliar with.
