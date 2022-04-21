@@ -1,0 +1,186 @@
+The game I intend to create is inspired by the aforementioned games, Zombie Gunship and Zombie Gunship survival.
+
+Let's start with what these two games do and end with my vision for the game.
+
+____________________Zombie Gunship and Zombie Gunship Survival____________________
+
+The Zombie Gunship and Zombie Gunship Survival fundamentally reflect two different gaming philosophies, even though they operate off the same "core."
+
+What is that core?
+
+Basically: Killing a ton of zombies with an AC-130, decked out with 3 weapons of your choice, with a certain degree of realism to make the experience extra crunchy (though the original Zombie Gunship was far more in line with realism than its sequal for various reasons). Each different weapon has strengths and weaknesses among them them, forcing you to quickly switch between all of them at any given moment depending on the immediate circumstances. These circumstances range from enemy types that are threatening you or your allies on the ground, the "rotation of the level" itself as some level geometry can block the path of bullets at certain angles, or other circumstances.
+
+Let's explore this starting with the original game.
+
+Zombie Gunship.
+
+You are an AC-130 gunner slowly circling an area, using a thermal filter camera (even with motion blur), firing rounds that take time to reach their target, requiring you to lead all of your shots, from the 25mm autocannon, to the big 105mm (though less so since...well, it's a cannon). This is mitigated by the upgrade-system, which allows you to upgrade every single aspect of the 3 weapons, from bullet speed to reload time, and explosion radius. You can practically double each of these stats, leading to an incredibly stark difference in how it feels to play the game in the beginning versus when you're maxed out. 
+
+Each level is a survival-based affair, trying to last as long as possible against larger and faster waves of Zombies. You get 4 map, with different geometries (the "easiest" map is a desert, while the "hardest" map is the lockdown make, basically a bit of a maze of high walls for a prison complex).
+
+The weapons are "semi-realistic;" miniguns don't overheat the way it does in game, nor do they have unlimited ammo, but the explosion and sound design is very in-line with their real life counterparts; from the 25mm mini-gun peppering the ground with very small explosions, the 40mm basically firing large grenades, and the 105mm providing heavy area AOE all at once in one go. When the explosions happen, it actually takes time for the explosion sound to reach you, which is a cool effect.
+
+What's really great about this is the interplay between all of these weapons; because you have unlimited ammo, it's thus on you to use all of this to the maximum effect. Civilians will be instantly blown up by your 105, so you don't want to fire it everywhere, and while your 40mm is better, it's not perfect, and only your machine gun is really suited for avoiding civilian casualties, especially if a civilian is in the process of being attacked.
+
+Titans, a very large, hefty enemy that takes multiple rounds to kill, presents an interesting gameplay mechanic; while you can quickly kill them with the machine gun, it sucks up some time where you're not slinging the bigger stuff at the hoards. At the start of a survival game, then, you can focus on them exclusively, but later as the tempo rises, the time required to off them, and the groupings of them, mean you need to basically be firing ALL of your weapons at them with no delay between any of them, to be able to kill them fast enough to focus on the hoards.
+
+In addition, it really feels like these weapons represent the power of their real life counterparts.
+
+As it should be. Movies, and even games to some effect, under-exaggerate the effects of what is effectively a 360-degree shotgun that spits out thousands of 2 km/s jagged shards of death upon detonation. The gibbing upon hitting a ground of 20 or more zombies with the 105mm truly conveys that you're packing a punch with every shell.
+
+With the exception of the titans. I guess they have really tough skin to be able to take multiple direct hits from a 105mm cannon.
+
+All of this lends to a crunchy, kinetic, thrilling experience, that feels great to truly master. Especially when your commander tells you that you're a good gunner.
+
+Now, let's go on to the second game.
+
+Zombie Gunship Survival.
+
+First off, you get a massive sandbox. Even though a lot of weapons in each category tend to get pushed to the wayside (particularly any cannon that isn't 90mm or above), you get 5 different weapon types, and you can put any weapon on any slot. So if you want three 105mm cannons, you can have three 105mm cannons. If you want three 7.62 miniguns firing all at once, you can do that (with the proper screen size and finger dexterity).
+
+You might not necessarily do very well on a level, but you can.
+
+This is a massive advantage over the first game. Especially when you have machine guns, snipers, missiles, rockets, and cannons. Cannons range from the 40mm to the 105mm, but you have limited ammo this time around for anything that's not a machine gun or sniper type weapon, barring very specific weapons later introduced in the game's life cycle.
+
+Machine guns overheat impart greater inaccuracy, but have unlimited ammo, and if you overheat your machine gun, you can't use it until it cools down to the minimum heat.
+
+Cannons range between limited magazine 40mm autocannons with something like 24 rounds, to the 105mm big-shot, that only has something like 4. The 90mm is probably the best of these three; 8 rounds, solid damage and damage radius, probably the only cannon where you can put three on the gunship and actually beat many of the levels even on the hard difficulties, presents a solid choice for your primary AOE weapon).
+
+Rocket pods are massive AOE weapons, primarily good at killing large numbers of weaker enemies. And also the flashiest, basically acting as a cluster bomb, but aren't good at, say, killing titans.
+
+Snipers exist only to kill titans. And frankly somewhat poorly, 90mm cannons and machine gun fire are much more preferable, even with the limited ammo capacity, at least, in the general levels.
+
+Missiles...
+
+...They just sort of exist. They're not good at AOE, they're not good at damaging titans, but you have to specifically home in on the target you want and can't use your other weapons while doing so. I think this is here to fulfill the role of a weapon where you don't need to predict where your enemy will be in time for maximum effect, but its drawbacks, again, make it functionally useless.
+
+Despite this, there's still enough here to make the game more varied in what weapons you can bring to bear than the original, which IS an improvement. There is also a napalm launcher that falls under the cannon category. The M777 is just...its own thing.
+
+Each level is basically a puzzle that you have to figure out. You have to get your guys through a maze of blockades, enemy towars, and zombie types + their varying arrangements to loot some arrangement of buildings. This technically means that MANY layouts are possible, and this is indeed true. Though at the expense of the original game, as every single level is just a flat area with things in it, and sacrifices some of the dynamics of the first game (there is never a wall blocking your aim, for example). They also get their own selection of weapons, but the problem of use cases is even worse for these; your gunship weapons are far more relevant to your progress, and only 2-3 of the troop weapons you get are actually useful out of the 10 or so there.
+
+There's also a survival mode that allows you to place around towers and blockades to try and laster longer. It's a neat addition.
+
+Unfortunately, it loses some of the realism. Just one example; you get a 30mm gatling gun and a 30mm autocannon in the same game, but only one of them actually features a proper damage radius that respects the real-life counterpart even though in real life they'd be firing the same exact ammo: you also get 90mm, 100mm, and 105mm cannons that really operate more on a power range appropriate for 75mm, 105mm, and 155mm artillery pieces respective. Oh and the M777 in game is an *autocannon.*
+
+...The developers behind the sequel apparently weren't the same guys behind the first and it shows.
+
+And while a lot of things about this game are great, the freemium model is...not
+
+The progression system...I'll put it like this, it gets exponentionally harder to improve your normal weapons, and it is exponentionally harder to improve higher rarity weapons compared to their common counterparts.
+
+...And you will need those higher rarity weapons. Good luck getting those rarities, let alone a good weapon type (is a legendary MP5 for your troops gonna get you through the later levels?...No, the answer is no).
+
+Its bad. It's not exactly new to mobile games...but it's bad.
+
+Zombie Gunship Revenant is another game which I should off-handedly mention but isn't really relevant here because it doesn't offer much of anything...it has the same problems as Zombie Gunship Survival, combined with the fundamental premise of Zombie Gunship (survival-based, unlocking new maps). You're also piloting an Apache, rather than an AC-130. It's very fun moment-moment, excellent sound and graphics design...but it's a freemium game.
+
+Now...onto what my game will do instead...
+
+____________________My game, "King of Battle"____________________
+
+So, how is my game going to differ and what will it have in common? There are elements undecided, so far, but I nonetheless have a clear idea on multiple aspects.
+
+The first is that my game will feature different creatures; aliens of some sort. This can offer far more creative freedom with enemy types that make some sense, as the giant zombie titans of Zombie Gunship just...don't really make sense. Nor the additional enemies added to Zombie Gunship Survival, such as the Mega Titan or the bulls. They're not a bad addition for gameplay, far from it, but it substantially strays from a zombie apocalypse into...something else entirely.
+
+Aliens and eldritch monsters allows for groups of cannon fodder, particularly strong enemies, even flying enemies (that will be fun to try and implement), and everything else you can imagine. It'd also be possible to make them smarter. Zombies might be undead, but there's a reason they go after other people's brains.
+
+It's a small detail, but a crucial one.
+
+The second is that my game will ditch what Zombie Gunship Survival did with the entirely flat terrain and go back to the more 3-dimensional terrain of Zombie Gunship, while having a level-oriented gameplay structure.
+
+I intend to make the levels quite varied; you ideally should never be in a level that is "the same," and at most it should have bare similarities.
+
+Terrain variance allows all sorts of different enemies and different scenarios that really take advantage of the 3D. In addition, it will take advantage of the subtle circling of the levels. The gradual circling will be a big part of how you navigate each mission. Rotation and distance will play a role at all times; shooting at targets farther away takes longer, and the wrong angle prevents some enemies from being accessible to at least some of your weapons.
+
+I intend to implement unique bosses, which would provide additional challenges, and a sense of finality to the game when it ends.
+
+The levels will have varying objectives; some are survival based, some are purely destruction based, to kill enemies. In some levels, you'll have to worry about civilians or allied forces that you are assisting. 
+
+I also want it to be that your gunship can actually be shot down, and you need to prioritize these sorts of enemies. 
+
+Difficulty progression will be difficult to figure out. But effectively, the idea is that it will start relatively simple, and get very crazy. Manageable...but crazy.
+
+In terms of how many levels there will be, it's easy to get carried away. Overall, there is going to be a lot of things to unlock and upgrade, and all sorts of ways you can play around with your tools and toys. But 40 levels is a good starting point. The difficulty will be in figuring out how to make progression happen; ZGS did this via stats. Your gun does 5 damage, the titan has 40,000 health. Grind loot boxes until your gun can be more than a glorified pee shooter.
+
+...This is not the best system. And it just doesn't feel as great having the same exact weapon setup your started with, just gooder-er, with absolutely no real differences. 
+
+Overall, I do believe that following in Zombie Gunship's footsteps would be the solution. You constantly earn money from killing enemies; you get better equipment and make it better and can finally conquer the level. And this is where the weapons system comes in. 
+
+It will work like the original Zombie Gunship, where you can only fire the weapon you have selected, and can't just fire off 3 machine guns at the same time. However, you will have unlimited ammo.
+
+Not only is not having to worry about whether or not your cool weaponry will run out and you can't use it anymore a sort of delight, it will make the gameplay more kinetic. Being able to efficiently use every single second to your advantage with good play feels amazing, especially when it's constantly juggling between 3 considerably different weapon types. The speed of the game can be maintained, and the dynamics of it can be resolved through enemies, terrain, and the pros and cons of the weapons you get.
+
+However, it will take a page from ZGS' playbook; you can put whatever you want in any weapon slot...with a caveat. You get a ne weapon, and only one usable version of that weapon. You get a 7.62mm machine gun? That's it. You get one of those. You can put 3 *different* machine guns onto your plane, but they will be different, and have differing properties to them.
+
+And like ZGS, don't expect to be able to do absolutely everything with three machine guns in all the scenarios you encounter, and so you never have to use anything else.
+
+Speaking of weapons, let's cover that.
+
+It will have effectively 4 fundamental facets.
+
+1. The different weapon types.
+2. The upgrading system.
+3. Ammunition types.
+4. Support.
+
+Let's go through these:
+
+*****Weapon types*****
+
+Machine guns will be your bread and butter and will come with varying types. Like in Zombie Gunship and Zombie Gunship Survival, these are overheating weapons, that decrease in accuracy as more heat is built up. Different weapons have different heating and cooling rates, and accuracy rates, on top of different accuracy and fire rates. Damage will vary, but this will be dependent on various other factors like fire rate, caliber, speed of the round, ammo, etc.
+
+Cannons will be one of your AOE style weapons. They're big, they're bad, they're fun. Like in the original game, the lower the caliber, the more magazine-based it is, and the higher the caliber, the more it operates like a single-shot. The bigger the gun, the bigger the blast, the bigger the damage, and the longer the reload.
+
+Rocket pods will operate in a similar capacity, but will not invalidate the cannons. Unlike the cannons, they will have *far* worse accuracy in exchange for much larger AOE effects...and much longer reload times. Don't expect to fire off another 15 rocket salvo after 15 seconds. No no. Exactly how these will function, I haven't quite decided; will these be salvos that you trigger like in Zombie Gunship Survival, or can you launch varying amounts of rockets at a certain rate? Or can they even be mixes of both types per different rocket pod? Generally, though, you probably won't be using these much in levels where civilian casualties are an important thing to avoid. In addition, just like in real life and in the Zombie Gunship games...these things will produce a lot of long-lasting smoke where you landed them. If you fire off a salvo in an area, you might not be able to tell what's going on there for a while. Better make sure it counts then.
+
+Snipers are a very weird thing. They make a great gameplay concept, but the real-life analogues to Zombie Gunship Survival's sniper weapons...didn't make a lot of sense. A 30mm sniper rifle where you have a 30mm rotary cannon? For titans? In this game, I have couple of solutions to this idea...AT cannon ammo, and incorporating new gun technologies, such as railguns.
+
+Missiles are also a very weird thing. Now, in Zombie Gunship Survival, you can use missile to "home in" on targets. It was basically useless in any role because everything else could do that role better (even general purpose), but it nonetheless has some promise with a simple tweak...making it controllable with a "shell-cam." This is an idea from the games "Toy Soldiers" and "Toy Soldiers: Cold War," tower defense games that let you control one of your towers, not only granting financial bonuses for combos, but also additional perkas such as secondary weapons or alternative firing modes. If you held down the fire button on a shell, you could steer the shell and correct its trajectory, or even speed it up. For Anti-Tank missiles, you could actually control it like you're piloting a very small, very fast kamikaze aircraft. In terms of balancing issues, this could effectively serve as a far slower weapon, that can get around corners to priority targets, but prevent firing other weapons in the mean time, and also be quite slow to reload.
+
+*****The Upgrading System*****
+
+The original Zombie Gunship had an excellent progression structure. Not only did you get to *buy* more weapons and upgrades to radar and income, etc, but you got to actually improve the meaningful characteristics of your fire power. Leading shots made easier by faster bullets. Shorter cool down, longer heat cycle, larger explosive radius, better fire rate, shorter reload.
+
+Progress walls were not dependent on the same shambler that you killed earlier getting an arbitrary health boost in a later level. Not only that, it gave the player more of what they came into the game for...big booms. Bigger booms...and more of them. It made the game more fun, with the part that made it fun.
+
+It also allowed the game to increase its pace. Easing the player into the faster waves as a run went on.
+
+Contrast this with Zombie Gunship Survival, where the only difference between a weapon and its upgraded version...is the damage stat. Not exactly the most exciting.
+
+Every weapon will start relatively weak, and get much better. And you will truly feel the difference. There are many ways this can work in line with real world analogues; yes, explodey thing go boom, but metal manufacturing, explosive filler, fragmentation patterning, and even what type of metal you use, can all influence how well an explosive weapon performs for its tasks. Tungsten is a heavier metal than steel. The same volume of tungsten flying at the same speed will pack more punch, and this is indeed used to effect in some artillery shell designs, such as the 3P round. So there are viable ways to start off with a less powerful shell and get a more powerful one than just making the number arbitrarily bigger.
+
+*****Ammunition types.*****
+
+In addition to upgrading system, you'll also get various ammunition types that you can equip to the same weapon. So for example, you could have the standard high-explosive/high-explosive fragmentation round, but also have an incendiary round, like WP. It would produce more, long-lasting smoke in areas, but also burn enemies and slow them down.
+
+Extra ammunition types would be able to provide additional variety and dynamics to the weapons you already get (though for some weapons this would be harder than others...like the machine guns), in addition to potential tradeoffs with each. These would be set as you go into a level, and cannot be changed mid-level. So you can't switch between two round types in the middle of the fight.
+
+*****Support*****
+
+In my game, you can call in various forms of artillery and air support, but it'll cost you. What might have been spent buying another gun with unlimited use, will be spent on a one time use feature. Artillery support will be the primary support method, ranging from more long-lasting barrages of a few smaller-caliber mortars, up to MRSI from a whole battery of 155mm howitzers.
+
+But be warned...there will be no easy way to get these. They're very expensive. And you can only store a limited amount at any given time. You call in a barrage, whether a long, drawn out barrage on one small area or a large-scale MRSI, its gone, and you have to buy it all over again. And of course, you can't just use it absolutely wherever you want it. It could be a fast-track to failing the level, having killed too many civilians. And the more powerful the barrage, the more expensive it is. And the more shells you put down at once, the more smoke that lingers, possibly obscuring the forces that come after the first wave. And you better have been paying attention to which stragglers were missed.
+
+And because the original Zombie Gunship was so much fun with its survival mode, this game would also have a survival mode, possibly multiple maps.
+
+
+
+------------------------------
+-----------In sum-------------
+------------------------------
+
+
+
+My game will be in the vein of the original Zombie Gunship in style, with a level structure like its sequel, a combination of the two different weapon systems between the original and its sequel, minus the freemium progression structure, being built more along the lines of the first.
+
+The circling of your gunship, the level terrain, enemy types and combinations, along with level objectives and priorities will all play a role in both the moment-to-moment gameplay, and overarcing decision making, all while offering a kinetic, intense experience slinging out firepower against hoards of monstrosities.
+
+The game shall take an "escalating" approach; you start small, and end big. The difficulty ramps up with the enemy types, numbers, and scenarios you encounter, forcing you to get new weapons and upgrade their characteristics to better deal with the tasks; progression will not be hinged solely on a damage stat.
+
+Variety will be emphasized; players will have a lot of fredom in what the want to bring to bear in terms of their preferred weapons of the selection provided, and can pump out all the rounds they want with enough time, but they won't be able to get carried away either, and ideally, no one setup should be able to carry you through the game. This is also where a survival mode can serve as a reward...seeing how far your actual preferred setup can get you.
+
+"Semi-Realism" will be employed; weapon effects, in appearance and in functionality, will be made to try and approximate their real life counterparts, with some gameplay compromises (how the gatling works in the first game clearly isn't how it works in real life, but it makes for a better gameplay mechanic). You won't be seeing an M777 treated as an overheating autocannon, for example.
+
+In addition, you will get something of a story to follow along, though nothing ever too complicated. And you'll get a great, funny, silly commander to take you all the way through the apocalypse. Like the original game, he'll compliment you when you do well, and take you back home when you drop a 105mm shell on what was clearly 5 civlians closely knit together. This would both end a level run, and also lose your financial rewards.
+
+Overall, my vision of the game is a varied, bombastic and kinetic experience, requiring both quick skill, attentiveness, and overarcing decision making to make it through the game's endless hoards.
